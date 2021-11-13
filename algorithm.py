@@ -4,7 +4,7 @@ integer = False
 
 abfrage = input('Natuerliche Zahl [j/n]?: ')
 
-if abfrage == 'j' or 'J':
+if abfrage == "j":
     integer = True
 
 
